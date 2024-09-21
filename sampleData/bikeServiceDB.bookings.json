@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "66ee2a05c6399a4675c636c5"
+  },
+  "user": {
+    "$oid": "66ee29d0c6399a4675c6368a"
+  },
+  "services": [
+    {
+      "$oid": "66ee29e2fdda933876d12c40"
+    },
+    {
+      "$oid": "66ee29e2fdda933876d12c42"
+    }
+  ],
+  "bookingDate": {
+    "$date": "2024-09-21T00:00:00.000Z"
+  },
+  "status": "completed",
+  "createdAt": {
+    "$date": "2024-09-21T02:05:57.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee2a28c6399a4675c636ee"
+  },
+  "user": {
+    "$oid": "66ee29d0c6399a4675c6368a"
+  },
+  "services": [
+    {
+      "$oid": "66ee29e2fdda933876d12c44"
+    },
+    {
+      "$oid": "66ee29e2fdda933876d12c40"
+    }
+  ],
+  "bookingDate": {
+    "$date": "2024-09-21T00:00:00.000Z"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-09-21T02:06:32.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee2a70c6399a4675c63700"
+  },
+  "user": {
+    "$oid": "66ee2a63c6399a4675c636f3"
+  },
+  "services": [
+    {
+      "$oid": "66ee29e2fdda933876d12c42"
+    },
+    {
+      "$oid": "66ee29e2fdda933876d12c44"
+    }
+  ],
+  "bookingDate": {
+    "$date": "2024-09-21T00:00:00.000Z"
+  },
+  "status": "completed",
+  "createdAt": {
+    "$date": "2024-09-21T02:07:44.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee2a8dc6399a4675c63729"
+  },
+  "user": {
+    "$oid": "66ee2a63c6399a4675c636f3"
+  },
+  "services": [
+    {
+      "$oid": "66ee29e2fdda933876d12c40"
+    },
+    {
+      "$oid": "66ee29e2fdda933876d12c44"
+    },
+    {
+      "$oid": "66ee29e2fdda933876d12c42"
+    }
+  ],
+  "bookingDate": {
+    "$date": "2024-09-21T00:00:00.000Z"
+  },
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-09-21T02:08:13.152Z"
+  },
+  "__v": 0
+}]

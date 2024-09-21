@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66ee29d0c6399a4675c6368a"
+  },
+  "name": "SUDARSHANA V",
+  "username": "sudar",
+  "email": "viswasudarshana@gmail.com",
+  "phoneNumber": "9597171650",
+  "password": "$2a$10$XxC7IXL/cHnv/nsq.ge1ieRzRPGxvsyB0TC2rm797OfBJICGZfM7O",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ee2a63c6399a4675c636f3"
+  },
+  "name": "SIVA V",
+  "username": "siva",
+  "email": "vasanthakumaransiva@gmail.com",
+  "phoneNumber": "7087676123",
+  "password": "$2a$10$UmElCFrT15y2fONdq5uZHutTZxjhM..QCFlqavUBiPcTM7ZlAGInm",
+  "__v": 0
+}]

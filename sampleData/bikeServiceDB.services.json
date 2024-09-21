@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66ee29e2fdda933876d12c40"
+  },
+  "name": "General service check-up",
+  "__v": 0,
+  "isActive": true,
+  "isDefault": true
+},
+{
+  "_id": {
+    "$oid": "66ee29e2fdda933876d12c42"
+  },
+  "name": "Oil change",
+  "__v": 0,
+  "isActive": true,
+  "isDefault": true
+},
+{
+  "_id": {
+    "$oid": "66ee29e2fdda933876d12c44"
+  },
+  "name": "Water wash",
+  "__v": 0,
+  "isActive": true,
+  "isDefault": true
+}]
